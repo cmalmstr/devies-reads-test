@@ -103,6 +103,7 @@ export default function BookList (){
               <Stack spacing={1}>
                 <Typography variant="h6">{selected.name}</Typography>
                 <Typography>{`Genre: ${selected.genre}`}</Typography>
+                <Typography>{selected.description}</Typography>
                 <Typography>{`Average rating: ${selected.averageRating}`}</Typography>
                 <Typography>{`Number of reads: ${selected.haveRead}`}</Typography>
                 <Typography>{`People currently reading it: ${selected.currentlyReading}`}</Typography>
