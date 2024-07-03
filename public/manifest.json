@@ -1,0 +1,8 @@
+{
+  "short_name": "Devies reads",
+  "name": "Devies reads",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
